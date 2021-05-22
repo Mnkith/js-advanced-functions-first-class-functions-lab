@@ -1,5 +1,5 @@
 # JavaScript Advanced Functions: First-Class Functions Lab
-
+ 
 ## Learning Goals
 
 - Assign functions to a variable.
